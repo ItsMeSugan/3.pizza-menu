@@ -64,11 +64,11 @@ body {
 }
 
 .header h1::before {
-  left: 0;
+  left: -15%;
 }
 
 .header h1::after {
-  right: 0;
+  right: -15%;
 }
 
 /* *************** */
@@ -91,7 +91,7 @@ body {
   font-weight: 500;
 }
 
-.menu > p {
+.menu>p {
   font-size: 1.5rem;
   text-align: center;
   line-height: 1.6;
